@@ -4,7 +4,7 @@ title: travels
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: fun
 related_publications: true
 ---
 
