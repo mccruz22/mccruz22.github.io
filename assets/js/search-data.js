@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-miscellaneous",
-          title: "miscellaneous",
-          description: "Collection of random stuff.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/miscellaneous/";
-          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "",
@@ -43,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-miscellaneous",
+          title: "miscellaneous",
+          description: "Collection of random stuff.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/miscellaneous/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -421,11 +421,25 @@ ninja.data = [{
           window.open("https://github.com/mccruz22", "_blank");
         },
       },{
+        id: 'social-kaggle',
+        title: 'Kaggle',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.kaggle.com/madelyncruz", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/madelyn-esther-cruz-bb845322b", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0009-8311-4647", "_blank");
         },
       },{
         id: 'social-spotify',
