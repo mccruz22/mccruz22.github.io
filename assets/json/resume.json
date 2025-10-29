@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Madelyn Esther C. Cruz",
+    "label": "Ph.D. Student in Applied and Interdisciplinary Mathematics and Scientific Computing",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mccruz@umich.edu",
+    "phone": "",
+    "url": "https://mccruz22.github.io/al-folio/",
+    "summary": "4th year Ph.D. Candidate",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "MI 48104",
+      "city": "Ann Arbor",
       "countryCode": "US",
-      "region": "California"
+      "region": "Michigan"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Madelyn Esther Cruz",
+        "url": "https://www.linkedin.com/in/madelyn-esther-cruz-bb845322b/"
       }
     ]
   },
