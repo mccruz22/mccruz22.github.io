@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://lsa.umich.edu/math/people/phd-students/mccruz.html'>Department of Mathematics, University of Michigan</a>, <a href='https://medschool.umich.edu/profile/madelyn-esther-cruz'>Department of Computational Medicine & Bioinformatics, University of Michigan</a>
+#subtitle: <a href='https://lsa.umich.edu/math/people/phd-students/mccruz.html'>Department of Mathematics, University of Michigan</a>, <a href='https://medschool.umich.edu/profile/madelyn-esther-cruz'>Department of Computational Medicine & Bioinformatics, University of Michigan</a>
 
 profile:
   align: right
