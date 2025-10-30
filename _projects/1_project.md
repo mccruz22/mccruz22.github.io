@@ -1,11 +1,13 @@
 ---
 layout: page
+permalink: /travels/
 title: travels
 #description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: fun
 related_publications: true
+
 ---
 
 In progress

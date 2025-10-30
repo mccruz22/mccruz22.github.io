@@ -80,7 +80,7 @@ html[data-theme="dark"] {
   color-scheme: dark;
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$rose-color};
+  --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$rose-color};
   --global-theme-color: #{$mustard-color};
   --global-hover-color: #{$yellow-color};
@@ -98,7 +98,7 @@ html[data-theme="dark"] {
     0.5
   );
   --global-back-to-top-text-color: #{$black-color};
-  --global-newsletter-bg-color: #{$grey-color-light};
+  --global-newsletter-bg-color: #{$rose-color};
   --global-newsletter-text-color: #{$grey-color-dark};
 
   --global-tip-block: #42b983;
