@@ -19,12 +19,23 @@
       "institution": "University of Michigan, Ann Arbor",
       "location": "Ann Arbor, MI",
       "url": "",
-      "area": "Applied and Interdisciplinary Mathematics and Scientific Computing",
-      "studyType": "PhD",
+      "area": "",
+      "studyType": "Ph.D. in Applied and Interdisciplinary Mathematics and Scientific Computing",
       "startDate": "2022-08-30",
       "endDate": "2027-04-30",
       "score": "10",
-      "courses": [""]
+      "courses": ""
+    },
+    {
+      "institution": "University of the Philippines - Diliman",
+      "location": "Philippines",
+      "url": "",
+      "area": "",
+      "studyType": "B.S. Mathematics",
+      "startDate": "2019-08",
+      "endDate": "2022-07",
+      "score": "10",
+      "courses": ""
     }
   ],
   "work": [

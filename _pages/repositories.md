@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 ---
 
+<!-- 
 {% if site.data.repositories.github_users %}
 
 ## GitHub users
@@ -30,7 +31,7 @@ nav_order: 3
   </div>
 
 ---
-
+-->
 {% endfor %}
 {% endif %}
 {% endif %}
