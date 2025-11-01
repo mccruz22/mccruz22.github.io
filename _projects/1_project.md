@@ -21,11 +21,11 @@ In progress
         {% include figure.liquid loading="eager" path="assets/img/image (2).png" title="Singapore" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col-sm mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path="assets/img/2018.thailand.jpg" title="Thailand 2017" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/DSCF3726.jpg" title="Thailand 2019" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <div class="col-md-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DSCF3726.jpg" title="Thailand 2019" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2018.thailand.jpg" title="Thailand 2017" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -37,10 +37,7 @@ In progress
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/IMG_0642.jpg" title="Puerto Rico" class="img-fluid rounded z-depth-1" %}
-    </div>    
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_0354.jpg" title="Florida" class="img-fluid rounded z-depth-1" %}
-    </div>
+    </div>   
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/IMG_1393.jpg" title="St. Kitts" class="img-fluid rounded z-depth-1" %}
     </div>  
@@ -50,7 +47,7 @@ In progress
 </div>
 
 <div class="caption">
-    Puerto Rico 2024. Florida 2024. St. Kitts 2024. Antigua 2024.
+    Puerto Rico 2024. St. Kitts 2024. Antigua 2024.
 </div>
 
 
@@ -74,3 +71,6 @@ In progress
 <div class="caption">
     St. Thomas 2024.
 </div>
+
+
+ <!--  "assets/img/IMG_0354.jpg" title="Florida" class="img-fluid rounded z-depth-1" -->
