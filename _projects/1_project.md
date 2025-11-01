@@ -7,6 +7,7 @@ img: assets/img/2019.thailand.jpg
 importance: 1
 category: fun
 related_publications: true
+published: false
 
 ---
 
@@ -20,7 +21,7 @@ In progress
         <div class="mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/image (2).png" title="Singapore" class="img-fluid rounded z-depth-1" %}
         </div>
-        <div class="col-sm mt-3 mt-md-0">
+        <div class="mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/DSCF3726.jpg" title="Thailand 2019" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
@@ -36,13 +37,13 @@ In progress
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_0642.jpg" title="Puerto Rico" class="rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_0642.jpg" title="Puerto Rico" class="img-fluid rounded z-depth-1" %}
     </div>   
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_1393.jpg" title="St. Kitts" class="rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_1393.jpg" title="St. Kitts" class="img-fluid rounded z-depth-1" %}
     </div>  
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_0971.jpg" title="Antigua" class="rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_0971.jpg" title="Antigua" class="img-fluid rounded z-depth-1" %}
     </div>        
 </div>
 
