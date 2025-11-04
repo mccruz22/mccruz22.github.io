@@ -423,13 +423,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/madelyn-esther-cruz-bb845322b", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0009-0009-8311-4647", "_blank");
-        },
-      },{
         id: 'social-spotify',
         title: 'Spotify',
         section: 'Socials',
