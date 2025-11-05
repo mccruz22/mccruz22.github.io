@@ -402,13 +402,6 @@ ninja.data = [{
           window.open("mailto:%6D%63%63%72%75%7A@%75%6D%69%63%68.%65%64%75", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/mccruz22", "_blank");
-        },
-      },{
         id: 'social-kaggle',
         title: 'Kaggle',
         section: 'Socials',
