@@ -29,4 +29,6 @@ latest_posts:
 
 I am a 4th year PhD candidate in Applied and Interdisciplinary Mathematics and Scientific Computing. I am interested in mathematical biology and computational neuroscience, and am currently working on biological neural networks on EEG in humans and sleep-wake models in rodents.
 
+**[Curriculum Vitae (CV)](https://drive.google.com/file/d/1erNeDzgG6b9z1JQTOQvtGj5qeE0fxSu2/view)**
+
 
